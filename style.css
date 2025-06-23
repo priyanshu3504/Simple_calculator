@@ -19,7 +19,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 130px;
+/*     gap: 130px; */
     flex-direction: column;
     /* background: linear-gradient(45deg,#000,#323232,#000,#323232,#000,#000); */
     background-color: #000;
@@ -31,7 +31,7 @@ body{
     align-items: center;
     padding: 50px;
     background: #000;
-    margin-bottom: 20px;
+/*     margin-bottom: 20px; */
     background-image: url(maths.jpeg);
 }
 
